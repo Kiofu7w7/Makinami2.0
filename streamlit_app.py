@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('MAKINAMI 2.0')
 
-st.write('Hello world!')
+st.write('HugChat prueba #1')
