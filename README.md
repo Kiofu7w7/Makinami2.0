@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# MAKINAMI 2.0
 ```
-⬆️ (Replace above with your app's name)
+MAKINAMI 2.0 HugChat
 ```
 
-Description of the app ...
+Pruebas con la api port de HugChat para la creacion de un asistente con memoria capas de auto modificarse, capaz de hacer cualquier tipo de accion mientras este relacionada con un ordenador
 
 ## Demo App
 
